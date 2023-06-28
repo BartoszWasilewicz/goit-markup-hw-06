@@ -1,2 +1,2 @@
-# goit-markup-hw-04
-zadanie domowe 4 bartek wasilewicz
+# goit-markup-hw-06
+zadanie domowe 6 bartek wasilewicz

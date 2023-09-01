@@ -59,7 +59,7 @@ label {
 
 .modal {
     display: flex;
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -308,7 +308,6 @@ ul.buttons {
 .modal_button {
     display: flex;
     justify-content: center;
-    margin-bottom: ;
 }
 
 .button_submit_modal {
